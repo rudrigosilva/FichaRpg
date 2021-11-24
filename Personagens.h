@@ -1,14 +1,14 @@
 #include <iostream>
-#include <String>
+#include <string>
 
 using namespace std;
 
 class Personagens
 {
     private:
-    String nomePersonagem;
-    String classe;
+    string nomePersonagem;
+    string classe;
     int nivel;
-    String alinhamento;
+    string alinhamento;
 
-}
+};
