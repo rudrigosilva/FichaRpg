@@ -3,7 +3,7 @@ a ideia é criar uma aplicação em C++ de uma ficha de rpg com possibilidade de
 
 ##
 
-classes=> Personagens, Jogadores, Missões, Armas, Raça, Magia
+classes: Personagens, Jogadores, Missões, Armas, Raça, Magia
 
 Personagens
 atributos->
